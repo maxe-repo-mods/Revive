@@ -1,6 +1,6 @@
 {
   "name": "Revive",
-  "version_number": "1.0.2",
+  "version_number": "1.0.3",
   "website_url": "https://github.com/maxe-repo-mods/Revive",
   "description": "Press F1 to revive all dead players (host only). Configurable HP, HP cost, and invincibility duration.",
   "dependencies": [
